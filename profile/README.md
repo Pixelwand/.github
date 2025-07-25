@@ -1,6 +1,3 @@
-Here’s a polished and professional README template tailored for the Pixelwand GitHub profile. It highlights who you are, what you build, and how contributors and clients can engage.
-
----
 
 # 🎨 Pixelwand Studio
 
