@@ -26,12 +26,14 @@ Based in Noida, India, Pixelwand is a venture studio that partners directly with
 
 ## 🧠 Featured Modules & Projects
 
-| Name              | Category            | Description                                       |
-| ----------------- | ------------------- | ------------------------------------------------- |
-| **Valuemetrix**   | FinTech SaaS        | AI-powered investment platform for retail users.  |
-| **Drafton**       | Proposal Automation | Smart proposal builder built for marketing teams. |
-| **HousePerSqft**  | Real Estate         | Property insights platform specialized for India. |
-| **BuildWithNext** | SaaS Scaffold       | Boilerplate kit to jumpstart SaaS projects fast.  |
+| Name              | Category            | Description                                       |Link |
+| ----------------- | ------------------- | ------------------------------------------------- |-------
+| **Valuemetrix**   | FinTech SaaS        | AI-powered investment platform for retail users.  |[valuemetrix.io](https://www.valuemetrix.io/) |
+| **Persuva**       | E-commerce | Tool for dropshippers to high-converting product pages in 5 mins. |  [persuva.ai](https://persuva.ai/) |
+| **TezWealth**  | Real Estate         | Your AI-powered financial companion to achieve your financial goals faster. | [tezwealth.ai](https://www.tezwealth.ai/) |
+| **Drafton**  | Proposal Automation         | Smart proposal builder built for marketing teams. | [drafton.io](https://www.drafton.io/) |
+| **BuildWithNext** | SaaS Scaffold       | Boilerplate kit to jumpstart SaaS projects fast.  | - |
+| **HousePerSqft** | Real Estate       | Property insights platform specialized for India. | - |
 
 These are built using clean architecture for modularity and scalability.
 
@@ -58,4 +60,6 @@ These are built using clean architecture for modularity and scalability.
 
 * **Website**: [pixelwand.live](pixelwand.live)
 * **LinkedIn**: [Pixelwand Studio](https://www.linkedin.com/company/pixelwand), Noida-based SaaS venture studio
+* **Clutch**: [Pixelwand](https://clutch.co/profile/pixelwand)
+* **Book Call**: [Cal.com](https://cal.com/pixelwand/demo)
 * **Focused On**: SaaS, AI/ML, product-market fit, lean product design and scaling.
