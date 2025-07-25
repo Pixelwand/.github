@@ -30,7 +30,7 @@ Based in Noida, India, Pixelwand is a venture studio that partners directly with
 | ----------------- | ------------------- | ------------------------------------------------- |-------
 | **Valuemetrix**   | FinTech SaaS        | AI-powered investment platform for retail users.  |[valuemetrix.io](https://www.valuemetrix.io/) |
 | **Persuva**       | E-commerce | Tool for dropshippers to high-converting product pages in 5 mins. |  [persuva.ai](https://persuva.ai/) |
-| **TezWealth**  | Real Estate         | Your AI-powered financial companion to achieve your financial goals faster. | [tezwealth.ai](https://www.tezwealth.ai/) |
+| **TezWealth**  | Personal Finance         | Your AI-powered financial companion to achieve your financial goals faster. | [tezwealth.ai](https://www.tezwealth.ai/) |
 | **Drafton**  | Proposal Automation         | Smart proposal builder built for marketing teams. | [drafton.io](https://www.drafton.io/) |
 | **BuildWithNext** | SaaS Scaffold       | Boilerplate kit to jumpstart SaaS projects fast.  | - |
 | **HousePerSqft** | Real Estate       | Property insights platform specialized for India. | - |
